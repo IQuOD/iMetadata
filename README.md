@@ -1,1 +1,3 @@
 # iMetadata
+The code here is an iPython notebook code that has been developed to allow intelligent guesses at metadata. Initially, the code is focussed on XBT data only, as there is a substantial period of data that does not have probe type information. Estimating the probe type allows better application of bias corrections.
+The code is used to apply imetadata to IQuOD version 0.1, to be released in 2017.
